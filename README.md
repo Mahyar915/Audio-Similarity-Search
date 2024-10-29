@@ -8,5 +8,5 @@ References:
 5. Audio Tagging: https://github.com/qiuqiangkong/panns_inference 
 6. Audio Data for testing: https://storage.googleapis.com/audioset
 
-Special Thanks to Dr. KM Mohsin for his amazing course on Udemy.
+Special thanks to Dr. KM Mohsin for his amazing course on Udemy.
 https://www.udemy.com/course/vector-db/learn/lecture/44280050#overview
